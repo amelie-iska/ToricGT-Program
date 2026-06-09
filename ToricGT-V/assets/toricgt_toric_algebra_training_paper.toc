@@ -1,0 +1,212 @@
+\contentsline {section}{\numberline {1}Motivation and relation to the ToricGT series}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What this paper claims and what it does not claim}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}High-level pipeline}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Part II of \emph {Combinatorial Commutative Algebra} as a training manual}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Chapter 7: semigroup rings, lattice ideals, Hilbert bases, and initial ideals}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Chapter 8: multigradings, K-polynomials, Betti numbers, and multidegrees}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Chapter 9: syzygies of lattice ideals}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Chapter 10: toric varieties as multigraded quotients}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Chapter 11: irreducible and injective resolutions}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Chapter 12: Ehrhart polynomials, dualizing complexes, Brion's formula, and short rational functions}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Chapter 13: local cohomology}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}A map from Part II to ToricGT components}{7}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Reasoning trajectories as semigroup, lattice, and module data}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Quantized reasoning-step alphabets}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The bits-per-byte gate}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Reasoning modules and filtered complexes}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Toric algebra and ReLU/tropical neural computation}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Active regions as weight orders}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Why initial degenerations help training}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}ReLU network applications}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Catalog of toric-algebraic applications, losses, metrics, techniques, and regularizers}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}O1. Semigroup trajectory congruence loss}{11}{subsection.5.1}%
+\contentsline {paragraph}{Part II source.}{11}{section*.2}%
+\contentsline {paragraph}{Mathematical object and loss.}{11}{section*.3}%
+\contentsline {paragraph}{Why it should help ToricGT.}{11}{section*.4}%
+\contentsline {paragraph}{Implementation and reproducibility.}{11}{section*.5}%
+\contentsline {subsection}{\numberline {5.2}O2. Saturation-hole normality regularizer}{11}{subsection.5.2}%
+\contentsline {paragraph}{Part II source.}{11}{section*.6}%
+\contentsline {paragraph}{Mathematical object and loss.}{11}{section*.7}%
+\contentsline {paragraph}{Why it should help ToricGT.}{11}{section*.8}%
+\contentsline {paragraph}{Implementation and reproducibility.}{12}{section*.9}%
+\contentsline {subsection}{\numberline {5.3}O3. Hilbert-basis step dictionary pruning}{12}{subsection.5.3}%
+\contentsline {paragraph}{Part II source.}{12}{section*.10}%
+\contentsline {paragraph}{Mathematical object and loss.}{12}{section*.11}%
+\contentsline {paragraph}{Why it should help ToricGT.}{12}{section*.12}%
+\contentsline {paragraph}{Implementation and reproducibility.}{12}{section*.13}%
+\contentsline {subsection}{\numberline {5.4}O4. Groebner-shadow curriculum}{12}{subsection.5.4}%
+\contentsline {paragraph}{Part II source.}{12}{section*.14}%
+\contentsline {paragraph}{Mathematical object and loss.}{12}{section*.15}%
+\contentsline {paragraph}{Why it should help ToricGT.}{12}{section*.16}%
+\contentsline {paragraph}{Implementation and reproducibility.}{12}{section*.17}%
+\contentsline {subsection}{\numberline {5.5}O5. Multigraded K-polynomial trajectory signature}{12}{subsection.5.5}%
+\contentsline {paragraph}{Part II source.}{12}{section*.18}%
+\contentsline {paragraph}{Mathematical object and loss.}{12}{section*.19}%
+\contentsline {paragraph}{Why it should help ToricGT.}{13}{section*.20}%
+\contentsline {paragraph}{Implementation and reproducibility.}{13}{section*.21}%
+\contentsline {subsection}{\numberline {5.6}O6. Betti-table reasoning regularity}{13}{subsection.5.6}%
+\contentsline {paragraph}{Part II source.}{13}{section*.22}%
+\contentsline {paragraph}{Mathematical object and loss.}{13}{section*.23}%
+\contentsline {paragraph}{Why it should help ToricGT.}{13}{section*.24}%
+\contentsline {paragraph}{Implementation and reproducibility.}{13}{section*.25}%
+\contentsline {subsection}{\numberline {5.7}O7. Multidegree class matching}{13}{subsection.5.7}%
+\contentsline {paragraph}{Part II source.}{13}{section*.26}%
+\contentsline {paragraph}{Mathematical object and loss.}{13}{section*.27}%
+\contentsline {paragraph}{Why it should help ToricGT.}{13}{section*.28}%
+\contentsline {paragraph}{Implementation and reproducibility.}{13}{section*.29}%
+\contentsline {subsection}{\numberline {5.8}O8. Initial-Betti upper-semicontinuity gate}{13}{subsection.5.8}%
+\contentsline {paragraph}{Part II source.}{13}{section*.30}%
+\contentsline {paragraph}{Mathematical object and loss.}{13}{section*.31}%
+\contentsline {paragraph}{Why it should help ToricGT.}{14}{section*.32}%
+\contentsline {paragraph}{Implementation and reproducibility.}{14}{section*.33}%
+\contentsline {subsection}{\numberline {5.9}O9. Laurent periodic trajectory module}{14}{subsection.5.9}%
+\contentsline {paragraph}{Part II source.}{14}{section*.34}%
+\contentsline {paragraph}{Mathematical object and loss.}{14}{section*.35}%
+\contentsline {paragraph}{Why it should help ToricGT.}{14}{section*.36}%
+\contentsline {paragraph}{Implementation and reproducibility.}{14}{section*.37}%
+\contentsline {subsection}{\numberline {5.10}O10. Hull-resolution trajectory scaffold}{14}{subsection.5.10}%
+\contentsline {paragraph}{Part II source.}{14}{section*.38}%
+\contentsline {paragraph}{Mathematical object and loss.}{14}{section*.39}%
+\contentsline {paragraph}{Why it should help ToricGT.}{14}{section*.40}%
+\contentsline {paragraph}{Implementation and reproducibility.}{14}{section*.41}%
+\contentsline {subsection}{\numberline {5.11}O11. Scarf-generic minimal certificate}{14}{subsection.5.11}%
+\contentsline {paragraph}{Part II source.}{14}{section*.42}%
+\contentsline {paragraph}{Mathematical object and loss.}{14}{section*.43}%
+\contentsline {paragraph}{Why it should help ToricGT.}{15}{section*.44}%
+\contentsline {paragraph}{Implementation and reproducibility.}{15}{section*.45}%
+\contentsline {subsection}{\numberline {5.12}O12. Lawrence-lift squarefree augmentation}{15}{subsection.5.12}%
+\contentsline {paragraph}{Part II source.}{15}{section*.46}%
+\contentsline {paragraph}{Mathematical object and loss.}{15}{section*.47}%
+\contentsline {paragraph}{Why it should help ToricGT.}{15}{section*.48}%
+\contentsline {paragraph}{Implementation and reproducibility.}{15}{section*.49}%
+\contentsline {subsection}{\numberline {5.13}O13. Toric quotient invariance head}{15}{subsection.5.13}%
+\contentsline {paragraph}{Part II source.}{15}{section*.50}%
+\contentsline {paragraph}{Mathematical object and loss.}{15}{section*.51}%
+\contentsline {paragraph}{Why it should help ToricGT.}{15}{section*.52}%
+\contentsline {paragraph}{Implementation and reproducibility.}{15}{section*.53}%
+\contentsline {subsection}{\numberline {5.14}O14. Cox-style semistable routing window}{15}{subsection.5.14}%
+\contentsline {paragraph}{Part II source.}{15}{section*.54}%
+\contentsline {paragraph}{Mathematical object and loss.}{15}{section*.55}%
+\contentsline {paragraph}{Why it should help ToricGT.}{16}{section*.56}%
+\contentsline {paragraph}{Implementation and reproducibility.}{16}{section*.57}%
+\contentsline {subsection}{\numberline {5.15}O15. Irreducible-component hallucination barrier}{16}{subsection.5.15}%
+\contentsline {paragraph}{Part II source.}{16}{section*.58}%
+\contentsline {paragraph}{Mathematical object and loss.}{16}{section*.59}%
+\contentsline {paragraph}{Why it should help ToricGT.}{16}{section*.60}%
+\contentsline {paragraph}{Implementation and reproducibility.}{16}{section*.61}%
+\contentsline {subsection}{\numberline {5.16}O16. Bass-number failure-mode classifier}{16}{subsection.5.16}%
+\contentsline {paragraph}{Part II source.}{16}{section*.62}%
+\contentsline {paragraph}{Mathematical object and loss.}{16}{section*.63}%
+\contentsline {paragraph}{Why it should help ToricGT.}{16}{section*.64}%
+\contentsline {paragraph}{Implementation and reproducibility.}{16}{section*.65}%
+\contentsline {subsection}{\numberline {5.17}O17. Dualizing-complex interior evidence prior}{16}{subsection.5.17}%
+\contentsline {paragraph}{Part II source.}{16}{section*.66}%
+\contentsline {paragraph}{Mathematical object and loss.}{16}{section*.67}%
+\contentsline {paragraph}{Why it should help ToricGT.}{17}{section*.68}%
+\contentsline {paragraph}{Implementation and reproducibility.}{17}{section*.69}%
+\contentsline {subsection}{\numberline {5.18}O18. Ehrhart context-growth law}{17}{subsection.5.18}%
+\contentsline {paragraph}{Part II source.}{17}{section*.70}%
+\contentsline {paragraph}{Mathematical object and loss.}{17}{section*.71}%
+\contentsline {paragraph}{Why it should help ToricGT.}{17}{section*.72}%
+\contentsline {paragraph}{Implementation and reproducibility.}{17}{section*.73}%
+\contentsline {subsection}{\numberline {5.19}O19. Brion vertex-cone retrieval cache}{17}{subsection.5.19}%
+\contentsline {paragraph}{Part II source.}{17}{section*.74}%
+\contentsline {paragraph}{Mathematical object and loss.}{17}{section*.75}%
+\contentsline {paragraph}{Why it should help ToricGT.}{17}{section*.76}%
+\contentsline {paragraph}{Implementation and reproducibility.}{17}{section*.77}%
+\contentsline {subsection}{\numberline {5.20}O20. Short rational generating-function code}{17}{subsection.5.20}%
+\contentsline {paragraph}{Part II source.}{17}{section*.78}%
+\contentsline {paragraph}{Mathematical object and loss.}{17}{section*.79}%
+\contentsline {paragraph}{Why it should help ToricGT.}{18}{section*.80}%
+\contentsline {paragraph}{Implementation and reproducibility.}{18}{section*.81}%
+\contentsline {subsection}{\numberline {5.21}O21. Cech-support local-cohomology loss}{18}{subsection.5.21}%
+\contentsline {paragraph}{Part II source.}{18}{section*.82}%
+\contentsline {paragraph}{Mathematical object and loss.}{18}{section*.83}%
+\contentsline {paragraph}{Why it should help ToricGT.}{18}{section*.84}%
+\contentsline {paragraph}{Implementation and reproducibility.}{18}{section*.85}%
+\contentsline {subsection}{\numberline {5.22}O22. Toric local cohomology coverage audit}{18}{subsection.5.22}%
+\contentsline {paragraph}{Part II source.}{18}{section*.86}%
+\contentsline {paragraph}{Mathematical object and loss.}{18}{section*.87}%
+\contentsline {paragraph}{Why it should help ToricGT.}{18}{section*.88}%
+\contentsline {paragraph}{Implementation and reproducibility.}{18}{section*.89}%
+\contentsline {subsection}{\numberline {5.23}O23. Cohen-Macaulay reasoning-depth objective}{18}{subsection.5.23}%
+\contentsline {paragraph}{Part II source.}{18}{section*.90}%
+\contentsline {paragraph}{Mathematical object and loss.}{18}{section*.91}%
+\contentsline {paragraph}{Why it should help ToricGT.}{19}{section*.92}%
+\contentsline {paragraph}{Implementation and reproducibility.}{19}{section*.93}%
+\contentsline {subsection}{\numberline {5.24}O24. Universal grading discovery}{19}{subsection.5.24}%
+\contentsline {paragraph}{Part II source.}{19}{section*.94}%
+\contentsline {paragraph}{Mathematical object and loss.}{19}{section*.95}%
+\contentsline {paragraph}{Why it should help ToricGT.}{19}{section*.96}%
+\contentsline {paragraph}{Implementation and reproducibility.}{19}{section*.97}%
+\contentsline {subsection}{\numberline {5.25}O25. Markov-basis negative sampling}{19}{subsection.5.25}%
+\contentsline {paragraph}{Part II source.}{19}{section*.98}%
+\contentsline {paragraph}{Mathematical object and loss.}{19}{section*.99}%
+\contentsline {paragraph}{Why it should help ToricGT.}{19}{section*.100}%
+\contentsline {paragraph}{Implementation and reproducibility.}{19}{section*.101}%
+\contentsline {section}{\numberline {6}Training paradigms derived from Part II}{19}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Paradigm A: audit-only algebraic cartography}{19}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Paradigm B: monomial-shadow pretraining and binomial lifting}{20}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Paradigm C: ReLU/tropical chart regularization}{20}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Paradigm D: resolution-shaped graph-of-thought training}{20}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Paradigm E: quotient and behavior control}{20}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Paradigm F: retrieval and memory as semigroup modules}{21}{subsection.6.6}%
+\contentsline {section}{\numberline {7}Implementation methodology}{21}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Data schema}{21}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Certificate generators}{21}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}GPU integration}{22}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Quantization and artifact accounting}{22}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Reproducible evaluation}{22}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Worked examples}{23}{section.8}%
+\contentsline {subsection}{\numberline {8.1}A commuting-proof semigroup}{23}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}A binomial relation for equivalent decomposition}{23}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}A saturation hole}{24}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}A Scarf certificate for generic relation data}{24}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Local cohomology as evidence-hole detection}{24}{subsection.8.5}%
+\contentsline {section}{\numberline {9}Additional theoretical guarantees}{24}{section.9}%
+\contentsline {section}{\numberline {10}A concrete experimental plan}{25}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Synthetic algebra suite}{25}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Reasoning suite}{25}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Ablations}{26}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Stopping rules}{26}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Expected failure modes}{26}{subsection.10.5}%
+\contentsline {paragraph}{Overfitting algebraic toys.}{26}{section*.102}%
+\contentsline {paragraph}{Bad quantization of degrees.}{26}{section*.103}%
+\contentsline {paragraph}{Incorrect finite relation basis.}{26}{section*.104}%
+\contentsline {paragraph}{Surrogate mismatch.}{26}{section*.105}%
+\contentsline {paragraph}{Behavior overconstraint.}{27}{section*.106}%
+\contentsline {section}{\numberline {11}Expanded theory: why toric algebra can change learning, not only diagnostics}{27}{section.11}%
+\contentsline {subsection}{\numberline {11.1}A finite toric algebra certificate functor}{27}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Minimum-description interpretation of Hilbert bases}{28}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Initial ideals as ReLU and tropical shadows}{28}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}K-polynomials as compact multi-step signatures}{29}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}Local cohomology as coverage and uncertainty}{30}{subsection.11.5}%
+\contentsline {section}{\numberline {12}Detailed Part-II-derived objective cards}{30}{section.12}%
+\contentsline {paragraph}{Card A: lattice-ideal normal-form head.}{30}{section*.107}%
+\contentsline {paragraph}{Card B: saturation-hole detector.}{30}{section*.108}%
+\contentsline {paragraph}{Card C: Hilbert-basis macro/micro controller.}{31}{section*.109}%
+\contentsline {paragraph}{Card D: initial-shadow active-region regularizer.}{31}{section*.110}%
+\contentsline {paragraph}{Card E: Betti sparsity and regularity.}{31}{section*.111}%
+\contentsline {paragraph}{Card F: hull-cell path supervision.}{31}{section*.112}%
+\contentsline {paragraph}{Card G: Scarf uniqueness probe.}{31}{section*.113}%
+\contentsline {paragraph}{Card H: Lawrence squarefree lift.}{31}{section*.114}%
+\contentsline {paragraph}{Card I: irreducible support decomposition.}{31}{section*.115}%
+\contentsline {paragraph}{Card J: Bass-warning head.}{32}{section*.116}%
+\contentsline {paragraph}{Card K: Ehrhart growth regulator.}{32}{section*.117}%
+\contentsline {paragraph}{Card L: Brion vertex-cache allocation.}{32}{section*.118}%
+\contentsline {paragraph}{Card M: Cech and Ishida coverage.}{32}{section*.119}%
+\contentsline {section}{\numberline {13}Reproducibility appendix: data, code paths, and exact audits}{32}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Canonical record format}{32}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Exact certificate generation}{33}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Deterministic validation and leakage control}{33}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Recommended hyperparameters}{34}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Minimal open-source reproduction}{34}{subsection.13.5}%
+\contentsline {subsection}{\numberline {13.6}Reporting checklist}{34}{subsection.13.6}%
+\contentsline {section}{\numberline {14}Wild-card research directions}{35}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Toric algebra for mixture-of-experts routing}{35}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Semigroup-valued curriculum scheduling}{35}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}Universal grading discovery for hidden features}{35}{subsection.14.3}%
+\contentsline {subsection}{\numberline {14.4}Canonical-module evidence priors}{35}{subsection.14.4}%
+\contentsline {subsection}{\numberline {14.5}Multigraded Hilbert-scheme view of representation drift}{36}{subsection.14.5}%
+\contentsline {subsection}{\numberline {14.6}Integer-programming certificates as tool-use supervision}{36}{subsection.14.6}%
+\contentsline {section}{\numberline {15}Conclusion}{36}{section.15}%
